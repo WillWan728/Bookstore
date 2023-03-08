@@ -18,6 +18,7 @@ Main purpose is to allow book clerk to access different information within the d
 I have created a menu to allow the user to navigate to different parts of this program. 
 
 * For example, if the user wants to add new book, they would input "1" and then answer all of the information necessary to be added to the database. 
+
 ![image](https://user-images.githubusercontent.com/122927183/223750732-bd1a9651-35de-4763-a038-3765de9326ff.png)
 
 # Credits 
